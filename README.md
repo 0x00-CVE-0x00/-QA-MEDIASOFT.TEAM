@@ -1,8 +1,14 @@
 # QA-MEDIASOFT.TEAM
 Тестовое задание на роль QA Automation Engineer от MEDIASOFT.TEAM
 
-name_surname: Мартынов Алесандр Александрови
-phone: +79603777524
-1. ***Login page tests***
-Задание 1 и 2 : https://app.qase.io/project/CB?suite=11&previewMode=side&view=3
-Задание 3 : https://telegra.ph/Test-plan-Mobilnoe-prilozhenie-dlya-kontrolya-raboty-voditelej-ehkspeditorov-08-09
+ФИО: Мартынов Алесандр Александрович
+
+Тел: +79603777524
+***
+Задание 1 и 2 : [link](https://app.qase.io/project/CB?suite=11&previewMode=side&view=3);
+
+Задание 3 : [link](https://telegra.ph/Test-plan-Mobilnoe-prilozhenie-dlya-kontrolya-raboty-voditelej-ehkspeditorov-08-09);
+
+Задание 4 : [link](https://telegra.ph/CHek-list-Proverka-razdela-s-vremennymi-periodami-v-prilozhenii-08-09);
+
+Задание 5 : [link](https://telegra.ph/5-Zadanie-Analiz-setevyh-zaprosov-na-sajte-wwwwildberriesru-08-09);
