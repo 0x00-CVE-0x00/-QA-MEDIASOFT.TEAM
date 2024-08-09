@@ -6,7 +6,7 @@
 Тел: +79603777524
 ***
 Задание 1 и 2 : [link](https://app.qase.io/project/CB?suite=11&previewMode=side&view=3);
- ![alt tag]([http://url/to/img.png](https://raw.githubusercontent.com/0x00-CVE-0x00/-QA-MEDIASOFT.TEAM/834bc58ff8bc2353a9d17625a3ce37b9c40dc9b5/photo.png))
+ ![alt tag](https://raw.githubusercontent.com/0x00-CVE-0x00/-QA-MEDIASOFT.TEAM/834bc58ff8bc2353a9d17625a3ce37b9c40dc9b5/photo.png)
  
 Задание 3 : [link](https://telegra.ph/Test-plan-Mobilnoe-prilozhenie-dlya-kontrolya-raboty-voditelej-ehkspeditorov-08-09);
 
